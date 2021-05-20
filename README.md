@@ -9,7 +9,7 @@ Para que a avaliação seja realizada o candidato deverá criar um repositório 
 
 ## Descrição do projeto
 
-O candidato deverá consumir a API pública da [Marvel]('https://developer.marvel.com/'), listando o maior número de informações possíveis (characters, stories, series), o candidato deverá utilizar as features do nextjs para listar e gerar páginas estáticas.
+O candidato deverá consumir a API pública da [Marvel](https://developer.marvel.com/), listando o maior número de informações possíveis (characters, stories, series), o candidato deverá utilizar as features do nextjs para listar e gerar páginas estáticas.
 
 ### Funcionalidades Requeridas
 
