@@ -21,8 +21,15 @@ O candidato deverá consumir a API pública da [Marvel](https://developer.marvel
 ### Tecnologias Requeridas
 
  - [nextjs](https://github.com/vercel/next.js) - Biblioteca usada para o desenvolvimento da aplicação;
- - [material-ui](https://material-ui.com/) - Utilizado para a estilização dos components;
  - [axios](https://github.com/axios/axios) - para consumo da API
+ - [styled-components](https://styled-components.com) - para a criação de componentes e estilos
+ - [typescript](https://www.typescriptlang.org) - para o desenvolvimento e tipagem do código
+> Você pode usar uma lib de componentes como Chakra ou Material UI para facilitar o desenvolvimento, desde que demonstre experiência com CSS por meio do styled componentes ou nativamente.
+
+### Diferenciais
+ - Uso de testes (jest/cypress)
+ - Lambda functions do Next
+ - Uso de contextos e estados
 
  ### Critérios de avaliação
- Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização de arquivos do projeto, além do conhecimento utilizado em JavaScript/Nextjs para o consumo da API.
+ Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização de arquivos do projeto, além do conhecimento utilizado em Typescript/Nextjs para o consumo da API.
