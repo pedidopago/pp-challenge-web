@@ -4,7 +4,7 @@ O objetivo do desafio é avaliar as habilidades do candidato à vaga de front-en
 ## Instruções para a entrega
 Para que a avaliação seja realizada o candidato deverá criar um repositório na sua conta do Github (crie uma, caso não possua) em seguida implementar o projeto descrito abaixo com um deploy do mesmo. Após o desenvolvimento, envie o **link do repositório** e o **link da aplicação publicada** para o seu contato da Pedido Pago.
 
-## Descrição do projéto 
+## Descrição do projeto 
 O candidato deverá consumir uma API mockada pela Pedido Pago, criando uma tela pixel perfect com as telas do Figma, garantindo que todas as funções da tela estejam funcionando e utilizando os dados da API.
 
 ## Funcionalidades Requeridas
