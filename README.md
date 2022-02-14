@@ -1,35 +1,32 @@
-
-# Pedido Pago Challenge 
-
-O objetivo do desafio é ter a melhor avaliação das habilidades do candidato à vaga de front-end. Para o desafio disponibilizaremos **5 dias** para o desenvolvimento da aplicação descrita abaixo.
+## Pedido Pago Challenge 
+O objetivo do desafio é avaliar as habilidades do candidato à vaga de front-end. Para o desafio disponibilizaremos 7 dias para o desenvolvimento da aplicação descrita abaixo.
 
 ## Instruções para a entrega
+Para que a avaliação seja realizada o candidato deverá criar um repositório na sua conta do Github (crie uma, caso não possua) em seguida implementar o projeto descrito abaixo com um deploy do mesmo. Após o desenvolvimento, envie o **link do repositório** e o **link da aplicação publicada** para o seu contato da Pedido Pago.
 
-Para que a avaliação seja realizada o candidato deverá criar um repositório na sua conta do *Github* (crie uma, caso não possua) em seguida implementar o projeto descrito abaixo. Após o desenvolvimento, envie o link do repositório para o seu contato da Pedido Pago.
+## Descrição do projéto 
+O candidato deverá consumir uma API mockada pela Pedido Pago, criando uma tela pixel perfect com as telas do Figma, garantindo que todas as funções da tela estejam funcionando e utilizando os dados da API.
 
-## Descrição do projeto
+## Funcionalidades Requeridas
+Configuração do axios para consumo da API
+Todas as páginas o mais fiel possível com o Figma
+A página precisa estar funcional 
+Ultilizar todos os dados da API mockada
 
-O candidato deverá consumir a API pública da [Marvel](https://developer.marvel.com/), listando o maior número de informações possíveis (characters, stories, series), o candidato deverá utilizar as features do nextjs para listar e gerar páginas estáticas.
+## Tecnologias Requeridas
 
-### Funcionalidades Requeridas
+nextjs - Biblioteca usada para o desenvolvimento da aplicação;
+axios - para consumo da API
+emotion - para a criação de componentes e estilos
+typescript - para o desenvolvimento e tipagem do código
 
- - configuração do axios para consumo da API utilizando sua key da Marvel
- - Ter uma página para listagem de sua preferência (characters, stories, series, etc.), com card para cada item da lista.
- - Uma página para o item específico
- - Criação da UI para as páginas listadas acima
+Você pode usar uma lib de componentes como Chakra ou Material UI para facilitar o desenvolvimento, desde que demonstre experiência com CSS por meio do styled componentes ou nativamente.
 
-### Tecnologias Requeridas
+## Diferenciais
+Uso de testes (jest/cypress)
+Lambda functions do Next
+Uso de contextos e estados
 
- - [nextjs](https://github.com/vercel/next.js) - Biblioteca usada para o desenvolvimento da aplicação;
- - [axios](https://github.com/axios/axios) - para consumo da API
- - [styled-components](https://styled-components.com) - para a criação de componentes e estilos
- - [typescript](https://www.typescriptlang.org) - para o desenvolvimento e tipagem do código
-> Você pode usar uma lib de componentes como Chakra ou Material UI para facilitar o desenvolvimento, desde que demonstre experiência com CSS por meio do styled componentes ou nativamente.
+## Critérios de avaliação
 
-### Diferenciais
- - Uso de testes (jest/cypress)
- - Lambda functions do Next
- - Uso de contextos e estados
-
- ### Critérios de avaliação
- Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização de arquivos do projeto, além do conhecimento utilizado em Typescript/Nextjs para o consumo da API.
+Seu projeto será avaliado de acordo com a qualidade do seu código e sua organização de arquivos do projeto, além do conhecimento utilizado em Typescript/Nextjs para o consumo da API.
