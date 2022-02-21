@@ -20,7 +20,7 @@ O candidato deverá consumir uma API mockada pela Pedido Pago, criando uma tela 
 - emotion - para a criação de componentes e estilos
 - typescript - para o desenvolvimento e tipagem do código
 
-Você pode usar uma lib de componentes como Chakra ou Material UI para facilitar o desenvolvimento, desde que demonstre experiência com CSS por meio do styled componentes ou nativamente.
+Você pode usar uma lib de componentes como Chakra ou Material UI para facilitar o desenvolvimento, desde que demonstre experiência com CSS por meio do emotion styled ou nativamente.
 
 ## Diferenciais
 - Uso de testes (jest/cypress)
