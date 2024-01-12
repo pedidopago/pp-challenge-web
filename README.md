@@ -13,6 +13,7 @@ O candidato deverá consumir uma API mockada pela Pedido Pago, criando uma inter
 - Fidelidade ao layout proposto no Figma, com exceção para a variação mobile que fica a critério do desenvolvedor.
 - As páginas de listagem de colaboradores e cargos precisam estar totalmente funcionais, exceto a de detalhes do colaborador e de cargo que podem ser estáticas. 
 - Ultilizar todas as rotas e dados fornecidos pela API.
+- Uso de temas para implementação do modo escuro. 
 
 ## Tecnologias Requeridas
 
