@@ -13,7 +13,6 @@ O candidato deverá consumir uma API mockada pela Pedido Pago, criando uma inter
 - Fidelidade ao layout proposto no Figma, com exceção para a variação mobile que fica a critério do desenvolvedor.
 - As páginas de listagem de colaboradores e cargos precisam estar totalmente funcionais, exceto a de detalhes do colaborador e de cargo que podem ser estáticas. 
 - Ultilizar todas as rotas e dados fornecidos pela API.
-- Uso de temas para implementação do modo escuro. 
 
 ## Tecnologias Requeridas
 
@@ -21,13 +20,15 @@ O candidato deverá consumir uma API mockada pela Pedido Pago, criando uma inter
 - react-query - Consumo de rotas da API
 - emotion - para a criação de componentes e estilos
 - typescript - para o desenvolvimento e tipagem do código
+- @pedidopago/react-icons - para o uso dos ícones presentes no layout
 
 Para a construção do layout, você pode usar a sua biblioteca de preferência, desde que demonstre experiência em CSS com o uso do emotion, css-in-js ou arquivo de estilos padrão.
 
 ## Diferenciais
 - Implementar testes na aplicação com jest e/ou cypress.
 - Uso de contextos e hooks para a abstração de informações. 
-- Estrutura de código, com foco em legibilidade e simplicidade. 
+- Estrutura de código, com foco em legibilidade e simplicidade.
+- Implementação do modo escuro. 
 
 ## Critérios de avaliação
 
